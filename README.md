@@ -69,7 +69,7 @@ weighted avg       0.94      0.93      0.93     38381
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```sh
-   git clone https://github.com/archiprasad/flight-delay-detection.git
+   git clone https://github.com/archiprasad/flight-delay-prediction.git
    ```
 2. Install dependencies:
    ```sh
