@@ -33,22 +33,22 @@ The project utilizes the following datasets:
 
 ## 📊 Results
 ### Confusion Matrix
-![Confusion Matrix](Confusion_Matrix.png)
+![Confusion Matrix](diagrams/ConfusionMatrix.png)
 
 ### Top Airlines with Highest Average Delays
-![Top Airlines](Bar_Plot.png)
+![Top Airlines](diagrams/BarPlot.png)
 
 ### Distribution of Arrival Delays
-![Delay Distribution](Histogram.png)
+![Delay Distribution](diagrams/Histogram.png)
 
 ### Arrival Delays by Hour of Departure
-![Delays by Hour](Violin_Plot.png)
+![Delays by Hour](diagrams/ViolinPlot.png)
 
 ### Arrival Delays by Day of the Week
-![Delays by Day](Box_Plot.png)
+![Delays by Day](diagrams/BoxPlot.png)
 
 ### Feature Correlation Heatmap
-![Feature Correlation](Feature_Correlation.png)
+![Feature Correlation](diagrams/Heatmap.png)
 
 ## 📈 Model Performance
 - **Train Accuracy**: 95%
